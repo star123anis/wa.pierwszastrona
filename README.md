@@ -1,2 +1,2 @@
-# wa.pierwszastrona
+# pierwszastrona
 cwiczenia html
